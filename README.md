@@ -51,4 +51,4 @@ cd pyqt6-scientific-calculator</pre>
 ![Calculator History UI](screenshot_history.png)
 
 ## 📝 License
-This project is licensed under the MIT License. Feel free to use and modify it.
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it.
