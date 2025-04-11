@@ -42,7 +42,7 @@ cd pyqt6-scientific-calculator</pre>
 
 3. Run the application:
 
-<pre>python calculatriceScientifique avec historique - PyQt.py</pre>
+<pre>main.py</pre>
 
 ### 📸 Screenshots
 
