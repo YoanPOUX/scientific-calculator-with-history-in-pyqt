@@ -44,8 +44,11 @@ cd pyqt6-scientific-calculator</pre>
 
 <pre>python calculatriceScientifique avec historique - PyQt.py</pre>
 
-###📸 Screenshots
-(Optional: Add screenshots of your UI here if available.)
+### 📸 Screenshots
+
+![Calculator UI](screenshot_main.png)
+
+:[Calculator History UI](screenshot_history.png)
 
 ## 📝 License
 This project is licensed under the MIT License. Feel free to use and modify it.
